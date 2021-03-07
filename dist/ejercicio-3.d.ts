@@ -1,0 +1,11 @@
+declare function isValid(string: string): boolean;
+declare const string1: string;
+declare const string2: string;
+declare const string3: string;
+declare const string4: string;
+declare const string5: string;
+declare const resultString1: boolean;
+declare const resultString2: boolean;
+declare const resultString3: boolean;
+declare const resultString4: boolean;
+declare const resultString5: boolean;
